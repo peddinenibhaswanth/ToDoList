@@ -103,17 +103,7 @@ Your app should now be running at `http://localhost:5173`.
 - `InputArea.jsx`: Manages input field and sends data to `App` on add.
 - `ToDoItem.jsx`: Renders individual tasks and handles click-to-delete.
 
----
 
-## 📸 Preview (Optional)
-
-> _You can add a screenshot here_
-
-```
-![ToDoList Preview](./assets/todolist-preview.png)
-```
-
----
 
 ## 📜 License
 
