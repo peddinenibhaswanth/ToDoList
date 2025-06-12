@@ -104,19 +104,6 @@ Your app should now be running at `http://localhost:5173`.
 - `ToDoItem.jsx`: Renders individual tasks and handles click-to-delete.
 
 
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
 <div align="center">
   <a href="#top">🔝 Back to Top</a>
 </div>
